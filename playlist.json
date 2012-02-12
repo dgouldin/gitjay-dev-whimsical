@@ -1,0 +1,58 @@
+{
+    "playlist": {
+        "track": [
+            {
+                "info": "http://www.rdio.com/artist/The_Shins/album/Wincing_The_Night_Away/", 
+                "album": "Wincing The Night Away", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t4242051"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDcf6MI"
+                ], 
+                "title": "Australia", 
+                "duration": 236, 
+                "image": "http://cdn3.rd.io/album/2/f/2/00000000000542f2/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/The_Shins/album/Wincing_The_Night_Away/track/Australia/"
+                ], 
+                "creator": "The Shins", 
+                "trackNum": 2
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Radiohead/album/The_King_Of_Limbs/", 
+                "album": "The King Of Limbs", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t10452623"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDfALM4"
+                ], 
+                "title": "Lotus Flower", 
+                "duration": 300, 
+                "image": "http://cdn3.rd.io/album/c/a/e/00000000000d9eac/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Radiohead/album/The_King_Of_Limbs/track/Lotus_Flower/"
+                ], 
+                "creator": "Radiohead", 
+                "trackNum": 5
+            }
+        ], 
+        "identifier": "http://www.rdio.com/people/dgouldin/playlists/566141/Whimsical/", 
+        "meta": [
+            {
+                "http://rdio.gitjay.com/playlist/id/": "p566141"
+            }
+        ], 
+        "location": "http://rd.io/x/QVGOBDNX8Tw", 
+        "title": "Whimsical", 
+        "date": "2012-02-12T07:33:50-00:00", 
+        "image": "http://m.rdio.com/_is/?aid=344818,892588&w=200&h=200", 
+        "creator": "David Gouldin", 
+        "annotation": "This is a playlist."
+    }
+}
